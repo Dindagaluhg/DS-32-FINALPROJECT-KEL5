@@ -1,7 +1,7 @@
 ## Final Project Data Science Batch 32
 ## Kelompok 5
 
-**Repository Content:""
+**Repository Content:**
 1. Source code - D Avengers.ipynb
 2. Laporan - D Avengers.ppt
 3. Readme.md
@@ -16,7 +16,7 @@ Outline:
 3. Multivariate Analysis
 4. Business Insight
 
-**SUMMARY**
+**SUMMARY** <br>
 Pada tugas stage 1, kesimpulan yang didapat berdasarkan korelasi dan business insight dari dataset Marketing Campaign adalah:
 
 **Korelasi**
@@ -36,13 +36,13 @@ Pada tugas stage 1, kesimpulan yang didapat berdasarkan korelasi dan business in
 
 Dari kesimpulan tersebut, tim marketing mendapatkan informasi berharga untuk mengarahkan strategi pemasaran, penjualan, dan interaksi dengan pelanggan secara lebih efektif.
 
-**STAGE 2**
-**Data Pre-Processing**
+## STAGE 2
+## Data Pre-Processing
 Outline:
 1. Data Cleaning
 2. Feature Engineering
 
-**SUMMARY**
+**SUMMARY** <br>
 Pada tugas stage 2, kesimpulan yang didapat berdasarkan dari data pre-processing adalah:
 1. Missing value pada income diatasi dengan imputasi median
 2. Tidak terdapat dupilkat data
