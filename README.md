@@ -1,5 +1,5 @@
-## Final Project Data Science Batch 32
-## Kelompok 5
+<h2> Final Project Data Science Batch 32 </h2>
+<h2> Kelompok 5 </h2>
 
 **Repository Content:**
 1. Source code - D Avengers.ipynb
@@ -8,8 +8,8 @@
 
 Dataset: Marketing Campaign (https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
 
-### STAGE 1
-### EDA, Insight, & Visualization
+<h3> STAGE 1 </h3>
+<h3> EDA, Insight, & Visualization </h3>
 Outline:
 1. Descriptive Statistics
 2. Univariate Analysis
@@ -36,8 +36,8 @@ Pada tugas stage 1, kesimpulan yang didapat berdasarkan korelasi dan business in
 
 Dari kesimpulan tersebut, tim marketing mendapatkan informasi berharga untuk mengarahkan strategi pemasaran, penjualan, dan interaksi dengan pelanggan secara lebih efektif.
 
-## STAGE 2
-## Data Pre-Processing
+<h3> STAGE 2 </h3>
+<h3> Data Pre-Processing </h3>
 Outline:
 1. Data Cleaning
 2. Feature Engineering
