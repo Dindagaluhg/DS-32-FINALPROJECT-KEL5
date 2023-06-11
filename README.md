@@ -54,3 +54,18 @@ Pada tugas stage 2, kesimpulan yang didapat berdasarkan dari data pre-processing
 8. Melakukan feature tranformation dengan standardisasi
 9. Handle Data Imbalance dengan dipilih variabel *response* karena memiliki imbalance yang cukup tinggi dan variabel ini akan dipakai untuk memprediksi ciri kustomer yang akan respons iklan.
 10. Membuat feature tambahan: WebEngagement, Jumlah cicilan, Tempat tinggal customer, Delivery time from web purchase
+
+<h3> STAGE 3 </h3>
+<h3> Machine Learning Evaluation &
+Supervised Learning
+Stage </h3>
+Outline:
+1. Modeling
+2. Feature Importance
+
+**SUMMARY** <br>
+Pada tugas stage 3, kesimpulan yang didapat berdasarkan dari Machine Learning Evaluation &
+Supervised Learning adalah:
+1. Split data train dan test
+2. Melakukan modeling, evaluation dan tuning parameter Logistic regression, Adaboost, Random forest
+3. Membuat Feature importance
